@@ -26,22 +26,6 @@
 - Routing: React Router DOM
 - API handling: Axios
 
-## Project Structure
-
-📦 react-api-app
-┣ 📂 src
-┃ ┣ 📂 components
-┃ ┃ ┣ 📜 Navbar.jsx
-┃ ┣ 📂 context
-┃ ┃ ┣ 📜 DataContext.jsx
-┃ ┣ 📂 pages
-┃ ┃ ┣ 📜 Home.jsx
-┃ ┃ ┣ 📜 Details.jsx
-┃ ┣ 📜 App.jsx
-┃ ┣ 📜 main.jsx
-┣ 📜 package.json
-┣ 📜 README.md
-
 ## Instalallation & Setup
 
 1.  Clone the Repository
