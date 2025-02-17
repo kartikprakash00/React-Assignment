@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: url(./assets/240_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg);
+    background-size: contain;
+}
